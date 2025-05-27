@@ -1,7 +1,7 @@
 # practicalDemo
 This is my Practical Demo
 <br>
-FeatureA
-This is my FeatureA Branch
-This is my FeatureB Branch
+FeatureA<br>
+This is my FeatureA Branch<br>
+This is my FeatureB Branch<br>
 main
